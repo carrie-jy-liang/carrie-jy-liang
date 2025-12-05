@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Carrie Liang!
+Carrie Liang | Data Analyst in NYC | Making overthinking productive
 
-I am a data analyst in NYC learning Data Science capabilities. Currently working on a Master's in Analytics (Computational Track) from the Georgia Institute of Technology.
+🌸 Hi! I’m Carrie, a current analyst and future data scientist. I turn overthinking into deeper insights, viewing problems at any and all angles and crafting a meaningful story from data.
 
-<!--click here to see my projects-->
+📚 Background: Earned a Bachelor’s in Biopsychology, Cognition, and Neuroscience (BCN) with minor in Linguistics from the University of Michigan. Currently, I'm working on a Master’s in Analytics from Georgia Tech.
 
-- Language: Python, R, SQL
-- Database: Google BigQuery, Python sqlite3
-- Visualization: Tableau, R ggplot2
+💭 Endlessly curious: I’m a data nerd constantly looking for the “why?” and seeking new challenges.
 
-Contact me: <!--linkedin-->
+🛠 Toolkit: SQL, Python, R, Tableau, Excel
+
+🍵 Off the clock: Venturing through the city for the best matcha (with my long-running ranked list), dancing, and discovering new dessert spots.
+
+📥 Let’s Connect! I’d love to chat with you about anything ranging from data to your favorite matcha in the city!
