@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Carrie Liang!
+
+I am a data analyst in NYC learning Data Science capabilities. Currently working on a Master's in Analytics (Computational Track) from the Georgia Institute of Technology.
+
+<!--click here to see my projects-->
+
+- Language: Python, R, SQL
+- Database: Google BigQuery, Python sqlite3
+- Visualization: Tableau, R ggplot2
+
+Contact me: <!--linkedin-->
